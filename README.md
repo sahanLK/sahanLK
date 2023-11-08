@@ -1,7 +1,7 @@
-## Hey There. 👋 I am a *Designer* [<img width="16" height="16" src="https://img.icons8.com/officel/16/design.png" alt="design"/>](), *Developer* 
+[<img width="64" height="64" src="https://img.icons8.com/pieces/64/experimental-code-pieces.png" alt="experimental-code-pieces"/>]()## Hey There. 👋 I am a *Designer* [<img width="16" height="16" src="https://img.icons8.com/officel/16/design.png" alt="design"/>](), *Developer* 
 
 
-[<img width="64" height="64" src="https://img.icons8.com/pieces/64/experimental-code-pieces.png" alt="experimental-code-pieces"/>]()
+
 
 Follow me on,
 
