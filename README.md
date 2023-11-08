@@ -4,6 +4,6 @@
 
 <h3>Follow me on,</h3>
 
-[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin"/>](https://www.linkedin.com/in/sahanlk/) &emsp;&emsp;
-[<img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow"/>](https://stackoverflow.com/users/14561731/sahan)
+[<img width="48" height="48" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" target="_blank"/>](https://www.linkedin.com/in/sahanlk/) &emsp;&emsp;
+[<img width="48" height="48" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow" target="_blank"/>](https://stackoverflow.com/users/14561731/sahan)
 
