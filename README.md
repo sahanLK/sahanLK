@@ -9,3 +9,5 @@
 
 
 [<img src="./code.gif">]
+[<img src="./code2.gif">]
+[<img src="./developer.gif">]
