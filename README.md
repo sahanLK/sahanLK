@@ -7,3 +7,5 @@
 [<img width="38" height="38" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin" target="_blank"/>](https://www.linkedin.com/in/sahanlk/) &emsp;
 [<img width="38" height="38" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow" target="_blank"/>](https://stackoverflow.com/users/14561731/sahan)
 
+
+[<img src="./code.gif">]
