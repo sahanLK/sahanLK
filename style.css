@@ -1,0 +1,11 @@
+img {
+    display: inline;
+}
+
+.hello {
+    display: flex !important;
+}
+
+.title {
+    color: #c78fa9; background-image: -webkit-linear-gradient(45deg, #c78fa9 18%, #999b58 45%, #9eefcf 97%, #4f4dc4 50%, #3b39c4 50%, #312eff 50%, #312eff 50%, #312eff 50%, #312eff 50%, #312eff 50%); background-clip: text; -webkit-background-clip: text; text-fill-color: transparent; -webkit-text-fill-color: transparent;
+}

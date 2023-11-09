@@ -10,7 +10,7 @@
 
 
 
-<!-- [<img width="50" height="50" src="https://img.icons8.com/pieces/64/experimental-code-pieces.png" alt="experimental-code-pieces"/>](**)
+[<img width="50" height="50" src="https://img.icons8.com/pieces/64/experimental-code-pieces.png" alt="experimental-code-pieces"/>](**)
 
 <h2 style="display:">Hey There. 👋 I am a Designer <img width="16" height="16" src="https://img.icons8.com/officel/16/design.png" alt="design"/>, Developer </h2>
 
@@ -23,4 +23,4 @@
 
 <!-- [<img src="./code.gif">]
 [<img src="./code2.gif">]
-[<img src="./developer.gif">] -->
+[<img src="./developer.gif">]
