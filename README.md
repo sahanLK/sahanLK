@@ -1,30 +1,13 @@
 <h2> Hi, I'm Sahan!</h2>
 <p>I am a seasoned Software Developer interested in Python Web Development, Machine Learning and Data Science.<a href="http://www.unb.br"></a></br></p>
 
-[![SSH](https://img.shields.io/badge/ssh%20personal-SHA256:w+KL3qQKtku1MfLFSZLCl93kSgxH3O4OvtcxHG5k0Go-blue?style=flat-square&logo=1password&logoColor=white)](https://docs.github.com/en/authentication/managing-commit-signature-verification/about-commit-signature-verification)
-
-[![Keybase PGP](https://img.shields.io/badge/pgp%20personal-783DBAF23C1D6478-blue?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/br3ndonland)
-
-[![Website](https://img.shields.io/badge/Website-bws.bio-informational?style=flat-square&color=black&logo=vercel&logoColor=white)](https://bws.bio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-br3ndonland-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/br3ndonland/)
-[![ORCID](https://img.shields.io/badge/ORCID-0000--0001--6615--8677-blue?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0001-6615-8677)
-[![Google](https://img.shields.io/badge/Google-deleted-inactive?style=flat-square&logo=google&logoColor=white)](https://github.com/tycrek/degoogle)
-
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
-[![Status](https://img.shields.io/badge/Status-Stable-success?style=flat-square&logo=gravatar&logoColor=white)](https://en.wikipedia.org/wiki/Life)
-[![Science is my jam](https://img.shields.io/badge/My%20jam-science-critical?style=flat-square&logo=electron&logoColor=white)](https://github.com/br3ndonland/R-proteomics-Nrf1)
-
-[![OS](https://img.shields.io/badge/OS-macOS-informational?style=flat-square&logo=apple&logoColor=white)](https://en.wikipedia.org/wiki/MacOS)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Editor](https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/br3ndonland/dotfiles)
 [![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
 
 [![FastAPI](https://img.shields.io/badge/Python%20framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
-[![Vue](https://img.shields.io/badge/JavaScript%20framework-Vue-4FC08D?style=flat-square&logo=javascript&logoColor=white)](https://vuejs.org/)
-[![Terraform](https://img.shields.io/badge/Infrastructure--as--code-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![AWS](https://img.shields.io/badge/Cloud-AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)](https://github.com/br3ndonland/awsdev)
-
 <br />
 
 ### A little more about me...  
