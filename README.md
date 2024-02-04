@@ -2,12 +2,12 @@
 <p>I am a seasoned Software Developer interested in Python Web Development, Machine Learning and Data Science.<a href="http://www.unb.br"></a></br></p></br>
 
 
-![Static Badge](https://img.shields.io/badge/Python%20Web%20Framework-Django?logo=Django&label=Django)
-[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-![Static Badge](https://img.shields.io/badge/Data%20Science-Django?label=Python&color=00b359)
-![Static Badge](https://img.shields.io/badge/Python%20Web%20Framework-Django?logo=FastApi&label=FastAPI&color=blue)
-![Static Badge](https://img.shields.io/badge/Machine%20Learning-Django?logo=Machine%20Learning&label=Python&color=red)
-![Static Badge](https://img.shields.io/badge/JavaScript-Django?style=flat-square&logo=react&logoColor=white&label=React&color=e600e6)
+![Static Badge](https://img.shields.io/badge/Python%20Web%20Framework-Django?logo=Django&label=Django)&nbsp;
+[![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)&nbsp;
+![Static Badge](https://img.shields.io/badge/Data%20Science-Django?label=Python&color=00b359)&nbsp;
+![Static Badge](https://img.shields.io/badge/Python%20Web%20Framework-Django?logo=FastApi&label=FastAPI&color=blue)&nbsp;
+![Static Badge](https://img.shields.io/badge/Machine%20Learning-Django?logo=Machine%20Learning&label=Python&color=red)&nbsp;
+![Static Badge](https://img.shields.io/badge/JavaScript-Django?style=flat-square&logo=react&logoColor=white&label=React&color=e600e6)&nbsp;
 
 
 <br />
