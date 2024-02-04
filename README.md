@@ -16,8 +16,14 @@
 
 ```python
 
-with PythonStack() as preferred:
-  mostly = 'Web Development'
+programming_languages = [Python, JavaScript, Java]
+
+with Python() as primary:
+  web_dev = True
+  data_sci_and_ml = True
+
+with Java() as secondary:
+  spring_boot = True
 
 ```
 <br/>
