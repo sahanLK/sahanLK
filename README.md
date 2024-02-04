@@ -10,7 +10,7 @@
 
 <br />
 
-### <em>More about me...</em>**  
+### More about me...  
 
 ```python
 
