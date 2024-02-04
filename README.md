@@ -1,18 +1,16 @@
 <h2> Hi, I'm Sahan!</h2>
-<p>I am a seasoned Software Developer interested in Python Web Development, Machine Learning and Data Science.<a href="http://www.unb.br"></a></br></p>
-
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-%23ffffff?style=flat&logo=Python">
+<p>I am a seasoned Software Developer interested in Python Web Development, Machine Learning and Data Science.<a href="http://www.unb.br"></a></br></p></br>
 
 
-[![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+![Static Badge](https://img.shields.io/badge/Python%20Web%20Framework-Django?logo=Django&label=Django)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
-[![Dotfiles](https://img.shields.io/badge/Setup-Dotfiles-blue?style=flat-square&logo=when-i-work&logoColor=white)](https://github.com/br3ndonland/dotfiles)
-[![Proton Mail](https://img.shields.io/badge/Email%20service-Proton%20Mail-informational?style=flat-square&color=8B89CC&logo=protonmail&logoColor=white)](https://proton.me/mail)
+![Static Badge](https://img.shields.io/badge/Data%20Science-Django?label=Python&color=00b359)
+![Static Badge](https://img.shields.io/badge/Python%20Web%20Framework-Django?logo=FastApi&label=FastAPI&color=blue)
+![Static Badge](https://img.shields.io/badge/Machine%20Learning-Django?logo=Machine%20Learning&label=Python&color=red)
 
-[![FastAPI](https://img.shields.io/badge/Python%20framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 <br />
 
-### A little more about me...  
+### More about me...  
 
 ```python
 
@@ -22,16 +20,9 @@ with PythonStack() as preferred:
 ```
 <br/>
 
-Let's Connect:
-
-<img src="https://img.shields.io/badge/Sahan%20Lakshitha-green?style=social&logo=Linkedin&color=black">
-
-[![Species](https://img.shields.io/badge/Sahan%20Lakshitha-green?style=social&logo=Linkedin&color=black)](https://www.linkedin.com/in/sahanlk/){:target="_blank"}
-[![Species](https://img.shields.io/badge/%40sahanlksk-green?style=social&logo=medium&logoColor=black&color=black&target=_blank&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F)](https://medium.com/@sahanlksk)
-
-
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25"/>](https://www.linkedin.com/in/valentinbriand42)
-[<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
-[<img src="https://img.shields.io/badge/%40sahanlksk-green?&logo=medium height="25""/>](https://medium.com/@sahanlksk)
+### Let's Connect! 
+![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Linkedin&logoColor=blue&label=Linkedin&color=00b359)
+![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Medium&logoColor=black&label=Medium&color=00b359)
+![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Stackoverflow&logoColor=ff6600&label=Stackoverflow&color=00b359)
 ---
 
