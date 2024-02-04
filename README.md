@@ -27,7 +27,8 @@ Let's Connect:
 [![Species](https://img.shields.io/badge/%40sahanlksk-green?style=social&logo=medium&logoColor=black&color=black&target=_blank&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F)](https://medium.com/@sahanlksk)
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" target="_blank" />](https://www.linkedin.com/in/valentinbriand42)
+[<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25"/>](https://www.linkedin.com/in/valentinbriand42)
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
+[<img src="https://img.shields.io/badge/%40sahanlksk-green?style=flat&logo=medium"/>](https://medium.com/@sahanlksk)
 ---
 
