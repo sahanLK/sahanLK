@@ -10,7 +10,7 @@
 
 <br />
 
-### More about me...  
+### More about me ...  
 
 ```python
 
