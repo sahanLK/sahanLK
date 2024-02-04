@@ -18,12 +18,12 @@
 
 programming_languages = [Python, JavaScript, Java]
 
-with Python() as primary:
-  web_dev = True
-  data_sci_and_ml = True
+async with Python() as primary:
+    web_dev = True
+    data_sci_and_ml = True
 
 with Java() as secondary:
-  spring_boot = True
+    spring_boot = True
 
 currently = Active
 ```
