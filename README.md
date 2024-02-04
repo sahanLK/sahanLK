@@ -24,6 +24,7 @@ with PythonStack() as preferred:
 
 Let's Connect:
 [![Species](https://img.shields.io/badge/Sahan%20Lakshitha-green?style=social&logo=Linkedin&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F)](https://www.linkedin.com/in/sahanlk/)
+[![Species](https://img.shields.io/badge/%40sahanlksk-green?style=social&logo=medium&logoColor=black&color=black&target=_blank&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F)](https://medium.com/@sahanlksk)
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
