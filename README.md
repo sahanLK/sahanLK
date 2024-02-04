@@ -23,6 +23,9 @@ with PythonStack() as preferred:
 <br/>
 
 Let's Connect:
+
+<a href="https://www.linkedin.com/in/sahanlk/" target="_blank"><img src="https://img.shields.io/badge/Sahan%20Lakshitha-green?style=social&logo=Linkedin&color=black"></a>
+
 [![Species](https://img.shields.io/badge/Sahan%20Lakshitha-green?style=social&logo=Linkedin&color=black)](https://www.linkedin.com/in/sahanlk/){:target="_blank"}
 [![Species](https://img.shields.io/badge/%40sahanlksk-green?style=social&logo=medium&logoColor=black&color=black&target=_blank&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F)](https://medium.com/@sahanlksk)
 
