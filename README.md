@@ -2,6 +2,7 @@
 <p>I am a seasoned Software Developer interested in Python Web Development, Machine Learning and Data Science.<a href="http://www.unb.br"></a></br></p>
 
 <br />
+
 ### A little more about me...  
 
 ```python
