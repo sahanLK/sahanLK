@@ -23,9 +23,9 @@ with PythonStack() as preferred:
 <br/>
 
 Let's Connect:
-<img alt="Static Badge" src="https://img.shields.io/badge/Sahan%20Lakshitha-green?style=social&logo=Linkedin&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F">
+<object><img alt="Static Badge" src="https://img.shields.io/badge/Sahan%20Lakshitha-green?style=social&logo=Linkedin&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F"></object>
 
-![Static Badge](https://img.shields.io/badge/Sahan%20Lakshitha-green?style=social&logo=Linkedin&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F)
+<object>![Static Badge](https://img.shields.io/badge/Sahan%20Lakshitha-green?style=social&logo=Linkedin&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F)</object>
 
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
