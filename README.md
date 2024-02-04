@@ -1,19 +1,30 @@
-<link rel="stylesheet" type="text/css" href="./style.css">
+<h2> Hi, I'm Sahan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<p><em>Software Developer at <a href="http://www.unb.br">IdeaHub (PVT) Ltd.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<div class="container">
-    <span class="hello">
-        <img src="https://img.icons8.com/pieces/64/experimental-code-pieces.png">
-        <h2 class="title">
-            &emsp14;&emsp14;Hey there, 
-            I am a Designer, Developer.
-        </h2>
-    </span>
-</div>
-
-[<img width="38" height="38" src="https://img.icons8.com/fluency/48/linkedin.png" alt="linkedin">](https://www.linkedin.com/in/sahanlk) &emsp;
-[<img width="38" height="38" src="https://img.icons8.com/color/48/stackoverflow.png" alt="stackoverflow" target="_blank"/>](https://stackoverflow.com/users/14561731/sahan)
+[![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/ThaiiBraga?style=social)](https://twitter.com/ThaiiBraga)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/Thaiane)
 
 
-<!-- [<img src="./code.gif">]
-[<img src="./code2.gif">]
-[<img src="./developer.gif">]
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const thai = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroPython",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+---
