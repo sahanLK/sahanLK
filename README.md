@@ -1,3 +1,9 @@
+<style>
+  img {
+    margin: 15px;
+  }
+</style>
+
 <h2> Hi, I'm Sahan!</h2>
 <p>I am a seasoned Software Developer interested in Python Web Development, Machine Learning and Data Science.<a href="http://www.unb.br"></a></br></p></br>
 
