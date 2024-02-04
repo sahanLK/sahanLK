@@ -23,7 +23,7 @@ with PythonStack() as preferred:
 <br/>
 
 Let's Connect:
-<img alt="Static Badge" src="https://img.shields.io/badge/Sahan%20Lakshitha-green?style=flat-square&logo=Linkedin&logoColor=white&labelColor=%230086b3&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F">
+<img alt="Static Badge" src="https://img.shields.io/badge/Sahan%20Lakshitha-green?style=for-the-badge&logo=Linkedin&logoColor=white&labelColor=%230086b3&color=black&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsahanlk%2F">
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/valentinbriand42)
 [<img src="https://img.shields.io/badge/Stack%20Overflow-282C34?logo=stackoverflow&logoColor=FE7A16" alt="Stack Overflow logo" title="Stack Overflow" height="25" />](https://stackoverflow.com/users/10927329/valentin-briand)
 ---
