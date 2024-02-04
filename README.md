@@ -1,7 +1,8 @@
 <h2> Hi, I'm Sahan!</h2>
 <p>I am a seasoned Software Developer interested in Python Web Development, Machine Learning and Data Science.<a href="http://www.unb.br"></a></br></p>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Python-%20%2300ace6">
+<img alt="Static Badge" src="https://img.shields.io/badge/Python-%23ffffff?style=flat&logo=Python">
+
 
 [![Species](https://img.shields.io/badge/Species-Homo_sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
 [![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)](https://en.wikipedia.org/wiki/Linux)
