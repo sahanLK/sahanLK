@@ -8,25 +8,6 @@
 ![Static Badge](https://img.shields.io/badge/Machine%20Learning-Django?logo=Machine%20Learning&label=Python&color=red)&nbsp;&nbsp;
 ![Static Badge](https://img.shields.io/badge/JavaScript-Django?style=flat-square&logo=react&logoColor=white&label=React&color=e600e6)&nbsp;&nbsp;
 
-
-
-<br />
-
-### More about me ...  
-
-```python
-
-programming_languages = [Python, JavaScript, Java]
-
-async with Python() as primary:
-    web_dev = True
-    data_sci_and_ml = True
-
-with Java() as secondary:
-    spring_boot = True
-
-currently = Active
-```
 <br/>
 
 #### <em>**Follow me on:**</em> 
