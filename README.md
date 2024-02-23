@@ -10,6 +10,16 @@
 ![Static Badge](https://img.shields.io/badge/JavaScript-Django?style=flat-square&logo=react&logoColor=white&label=React&color=e600e6)&nbsp;&nbsp;
 
 
+
+![Static Badge](https://img.shields.io/badge/Python%20Web%20Framework-Django?logo=Django&label=Django)&nbsp;&nbsp;
+![OS](https://img.shields.io/badge/OS-Linux-informational?style=flat-square&logo=linux&logoColor=white)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Data%20Science-Django?label=Python&color=00b359)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Python%20Web%20Framework-Django?logo=FastApi&label=FastAPI&color=blue)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Machine%20Learning-Django?logo=Machine%20Learning&label=Python&color=red)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/JavaScript-Django?style=flat-square&logo=react&logoColor=white&label=React&color=e600e6)&nbsp;&nbsp;
+
+
+
 <br />
 
 ### More about me ...  
