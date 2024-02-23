@@ -33,5 +33,10 @@ currently = Active
 ![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Linkedin&logoColor=blue&label=Linkedin&color=00b359)
 ![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Medium&logoColor=black&label=Medium&color=00b359)
 ![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Stackoverflow&logoColor=ff6600&label=Stackoverflow&color=00b359)
+
+[![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Linkedin&logoColor=blue&label=Linkedin&color=00b359)](https://www.linkedin.com/)
+[![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Medium&logoColor=black&label=Medium&color=00b359)](https://medium.com/)
+[![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Stackoverflow&logoColor=ff6600&label=Stackoverflow&color=00b359)](https://stackoverflow.com/)
+
 ---
 
