@@ -31,8 +31,8 @@ currently = Active
 
 #### <em>**Follow me on:**</em> 
 
-[![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Linkedin&logoColor=blue&label=Linkedin&color=00b359)](https://www.linkedin.com/in/sahanlk/){:target="_blank"}
-[![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Medium&logoColor=black&label=Medium&color=00b359)](https://medium.com/@sahanlksk){:target="_blank"}
+[![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Linkedin&logoColor=blue&label=Linkedin&color=00b359)](https://www.linkedin.com/in/sahanlk/)
+[![Static Badge](https://img.shields.io/badge/%20-Django?style=social&logo=Medium&logoColor=black&label=Medium&color=00b359)](https://medium.com/@sahanlksk)
 
 ---
 
